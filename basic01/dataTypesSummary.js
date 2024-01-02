@@ -31,3 +31,10 @@ const myFunction = function (){
 }
 
 console.log(typeof heroes);
+
+/* ********************* */
+// stack(Primitive), original value wont change
+// heap(non-primitive), referces and changes all value
+let myYoutubeName = "KshitizPaudel.com"
+
+let anotherName = myYoutubeName
