@@ -58,4 +58,8 @@ let a = 4
 let b = ++a // increments before and set a as +1
 console.log(`a:${a} y: ${b}`);
 
+console.log(`a:${a} y: ${b}`);
+console.log(`x:${x} y: ${y}`);
+
+
 
